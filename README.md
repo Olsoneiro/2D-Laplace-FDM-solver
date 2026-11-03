@@ -57,7 +57,7 @@ pip install numpy matplotlib
 Run the script directly from the terminal:
 
 ```bash
-python main.py
+python run.py
 ```
 
 ### Sample Console Output
